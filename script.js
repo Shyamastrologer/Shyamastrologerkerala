@@ -281,7 +281,7 @@ function showLoadingScreen() {
     loader.innerHTML = `
         <div class="loader-content">
             <div class="astro-loader">
-                <i class="fas fa-star-and-crescent"></i>
+                <i class="fas fa-star"></i>
             </div>
             <p>Loading cosmic wisdom...</p>
         </div>
